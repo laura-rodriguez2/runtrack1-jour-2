@@ -1,0 +1,36 @@
+#main{
+
+}
+.texte{ 
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    font-size: 200%;
+    color: #c00000;
+    text-shadow: 1px 2px #000000;
+}
+.titres{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size: 300%;
+    color: #c00000;
+    text-shadow: 1px 1px 2px black, 0 0 1em rgb(0, 0, 0), 0 0 0.2em rgb(0, 0, 0);
+}
+body {
+    background-image: url("../images/wowfond1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}  
+#image{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.image1{
+    height: 10em;
+}
+#barre{
+    width: 200px;
+    background-color:#c00000;
+    margin: 0px;
+    padding:0px;
+}

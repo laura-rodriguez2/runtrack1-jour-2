@@ -1,0 +1,25 @@
+#main{ font-family: Arial, sans-serif;
+    text-align: center;
+    font-size: 200%;
+    color: #ff8800;
+    text-shadow: 5px 5px #3f0000;
+}
+body {
+    background-image: url("../images/wowfond1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}  
+#image{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.image1{
+    height: 10em;
+}
+#barre{
+    width: 200px;
+    background-color:#ff8800;
+    margin: 0px
+    padding:0px;
+}
